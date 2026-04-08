@@ -1,4 +1,4 @@
-# Hi, I'm Moritz 👋
+# Hi, I'm Moritz 🙋🏽‍♂️
 
 **Backend & Systems Engineer** with a strong foundation in C, networking, and distributed systems.  
 Currently building production-ready backend and full-stack applications.
@@ -13,7 +13,7 @@ Currently building production-ready backend and full-stack applications.
 
 ---
 
-## 🚀 Highlight Projects
+## 🖼️ Highlight Projects
 
 - **Web Server in C (Event-driven)** – Custom HTTP/1.1 server implemented in C using non-blocking I/O, configurable via a custom config system, supporting static file serving and CGI. Demonstrates advanced systems programming, networking, and low-level backend skills.
 
@@ -23,7 +23,7 @@ Currently building production-ready backend and full-stack applications.
 
 ---
 
-## 🚧 Currently Working On
+## Currently Working On
 
 - **FT_Transcendence – Full-Stack Web Application** – Developing a modern full-stack platform with Python/FastAPI backend, React frontend, PostgreSQL database, and Dockerized deployment. Features include user authentication, real-time interactions, and integration tests. Demonstrates end-to-end development skills and experience with production-ready, containerized applications.
 
