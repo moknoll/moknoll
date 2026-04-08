@@ -1,8 +1,6 @@
 # Hi, I'm Moritz
 
-I'm a Developer trained at école 42. <br>
-Strong Unix foundation (C, networking, processes)  <br>
-Currently building a Full Stack project. 
+Backend & Systems Engineer with strong foundation in C, networking & distributed systems. <br>
 
 ## Tech Stack
 
