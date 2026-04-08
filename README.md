@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Moritz
 
-<!--
-**moknoll/moknoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer trained at école 42. 
+Strong Unix foundation (C, networking, processes)  
+Currently building a Full Stack project. 
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- C
+- C++
+- Python
+- Bash
+
+**Backend**
+- FastAPI
+- REST APIs
+- PostgreSQL
+- Redis
+
+**Systems**
+- Unix internals
+- Processes & Signals
+- TCP/IP
+- Docker
+
+## Highlight Projects
+
+- 🔹 [C HTTP Server](link) – Event-driven web server built from scratch in C  
+- 🔹 [Unix Shell Implementation](link) – Custom shell with pipes, redirections & signal handling  
+- 🔹 [Containerized Microservices Environment](link) – Multi-service setup with Docker & reverse proxy
