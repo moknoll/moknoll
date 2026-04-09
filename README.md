@@ -1,4 +1,4 @@
-# Hi, I'm Moritz 🙋🏽‍♂️
+# Hi, I'm Moritz 
 
 **Backend & Systems Engineer** with a strong foundation in C, networking, and distributed systems.  
 Currently building production-ready backend and full-stack applications.
