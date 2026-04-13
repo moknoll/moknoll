@@ -1,6 +1,6 @@
 # Hi, I'm Moritz 
 
-**Backend & Systems Engineer** with a strong foundation in C, networking, and distributed systems.  
+**Backend & Systems Engineer** with a strong foundation in C, C++, networking, and distributed systems.  
 Currently building production-ready backend and full-stack applications.
 
 ---
@@ -8,7 +8,7 @@ Currently building production-ready backend and full-stack applications.
 ## 🛠 Tech Stack
 
 **Languages:** C, C++, Python, Bash  
-**Backend:** FastAPI, REST APIs, PostgreSQL, Redis  
+**Backend:** FastAPI, MariaDB, Redis  
 **Systems & Infra:** Unix internals, TCP/IP, Docker & containerized environments
 
 ---
