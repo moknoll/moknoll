@@ -1,19 +1,19 @@
 # Hi, I'm Moritz 
 
-**Backend & Systems Engineer** with a strong foundation in C, C++, networking, and distributed systems.  
-Currently building production-ready backend and full-stack applications.
+Software Engineering student specializing in Data Engineering and Backend Development. Strong foundation in Python, SQL, Linux, and C/C++, with hands-on experience building ETL pipelines, relational databases, and systems-level software.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages:** C, C++, Python, Bash  
-**Backend:** FastAPI, MariaDB, Redis  
-**Systems & Infra:** Unix internals, TCP/IP, Docker & containerized environments
+**Languages:** Python, SQL, C, C++, Bash  
+**Data Engineering:** ETL Pipelines, Data Processing, Pandas, Data Modeling, SQLite, MariaDB  
+**Backend:** FastAPI, REST APIs, HTTP, Backend Development  
+**Systems & Infrastructure:** Linux/Unix, TCP/IP, Docker, Containerized Environments, Git
 
 ---
 
-## 🖼️ Highlight Projects
+## Highlight Projects
 
 - **Web Server in C (Event-driven)** – Custom HTTP/1.1 server implemented in C using non-blocking I/O, configurable via a custom config system, supporting static file serving and CGI. Demonstrates advanced systems programming, networking, and low-level backend skills.
 
