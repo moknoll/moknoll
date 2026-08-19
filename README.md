@@ -19,13 +19,12 @@ Software Engineering student specializing in Data Engineering and Backend Develo
 
 - **Unix Shell Implementation** – Custom shell in C featuring command parsing, pipes, redirections, and signal handling. Highlights deep understanding of process management, Unix internals, and concurrency.
 
-- **Containerized Microservices Environment** – Multi-service architecture using Docker, including service orchestration, reverse proxy setup, and persistent storage. Shows hands-on experience with containerized deployments, service networking, and DevOps practices.
-
+- **Containerized End-to-End Data Pipeline for Football Analytics** – Develop a fully containerized ETL pipeline to scrape, process, and store football data from Transfermarkt in a PostgreSQL database for further analysis and visualization.
 ---
 
 ## Currently Working On
 
-- **FT_Transcendence – Full-Stack Web Application** – Developing a modern full-stack platform with Python/FastAPI backend, React frontend, PostgreSQL database, and Dockerized deployment. Features include user authentication, real-time interactions, and integration tests. Demonstrates end-to-end development skills and experience with production-ready, containerized applications.
+- **FT_Transcendence – Full-Stack Web Application** – Developing a modern full-stack real-time messaging platform using TypeScript, Express.js, React, MariaDB, and Docker. Implementing an AI-powered chat service with LLM integration, streaming responses, persistent conversations, validation, error handling, and rate limiting, alongside an interactive analytics dashboard for AI usage and mini-game statistics.
 
 ---
 
